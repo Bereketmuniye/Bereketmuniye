@@ -1,17 +1,11 @@
-# Welcome to Bereket Muniye's GitHub Profile! 👋
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bereket%20Muniye&fontSize=90&animation=fadeIn)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full-stack+Expert;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50&size=30&duration=3000&repeat=Infinity">
-</p>
+# Welcome to Bereketmuniye's GitHub Profile! 👋
 
 ## About Me
 
 🚀 **Passionate about creating robust and scalable software solutions.**  
 💻 **Full-stack developer with expertise in web and mobile technologies.**  
 🌱 **Always eager to learn and adapt to new technologies in the ever-evolving tech landscape.**  
-💬 **Ask me about Laravel, Angular, .NET, Next.js, React, or Flutter!**
+💬 **Ask me about:** Laravel, Angular, .NET, Next.js, React, or Flutter,Python!
 
 ## My Tech Stack
 
@@ -27,11 +21,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereket-muniye&show_icons=true&theme=radical&count_private=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bereketmuniye&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-muniye&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bereketmuniye&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## Let's Connect!
@@ -41,4 +35,4 @@
   <a href="https://twitter.com/bereket_muniye"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
