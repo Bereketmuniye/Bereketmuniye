@@ -1,6 +1,8 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
-![Lifestyle Banner](https://i.imgur.com/your_image_id.png)
+## 🙏 Praying | 💻 Coding | 🛏️ Sleeping | 🔄 Repeating
+
+---
 
 ## 👨‍💻 About Me
 
