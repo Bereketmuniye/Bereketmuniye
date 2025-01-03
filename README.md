@@ -1,5 +1,7 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
+![Lifestyle Banner](https://your-image-url.com/pray-code-sleep-repeat.png)
+
 ## 👨‍💻 About Me
 
 Hi there! 🚀 I'm **Bereket Muniye**, a passionate **full-stack developer** dedicated to crafting robust, scalable, and innovative digital solutions. Here's a glimpse of my journey:
