@@ -1,8 +1,10 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
-## 🙏 Praying | 💻 Coding | 🛏️ Sleeping | 🔄 Repeating
+## 🌟 My Daily Routine
 
----
+| 🙏 Pray | 💻 Code | 🛏️ Sleep | 🔄 Repeat |
+|:-------:|:------:|:-------:|:--------:|
+|         |        |         |          |
 
 ## 👨‍💻 About Me
 
