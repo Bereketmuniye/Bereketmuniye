@@ -1,9 +1,24 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=300&section=header&text=Bereket%20Muniye&fontSize=70&fontAlignY=40&fontColor=ffffff)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Mobile%20App%20Enthusiast;Innovative%20Problem%20Solver;Open%20Source%20Advocate&font=Fira%20Code&center=true&width=900&height=45&size=25&duration=3000&pause=500&color=ffffff&vCenter=true">
+</p>
+
+---
+
+## 💻 My Tech Stack
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel" height="80"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031" alt="Angular" height="80"></a>
+  <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4" alt=".NET" height="80"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js" height="80"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" height="80"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" height="80"></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bereketmuniye/Bereketmuniye/assets/animation/stack-animation.gif" alt="Tech Stack Animation" height="200">
 </p>
 
 ---
@@ -19,19 +34,6 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -42,20 +44,6 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereketmuniye&layout=compact&theme=react&langs_count=6" alt="Top Languages" width="48%" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-🚀 **[Project Name](#)**  
-📌 Description of the project with key features.  
-**Tech Used:** Laravel, Angular, MySQL.  
-
-🚀 **[Another Project](#)**  
-📌 Short description of the project.  
-**Tech Used:** Next.js, React, Firebase.  
-
----
 
 ## 🤝 Let's Connect!
 
