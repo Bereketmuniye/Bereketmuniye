@@ -6,6 +6,17 @@
 
 ---
 
+## 👨‍💻 About Me
+
+Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated to crafting robust, scalable, and innovative digital solutions. Here's a glimpse of my journey:
+
+- 🔭 I specialize in **full-stack web and mobile development**.
+- 🌱 Currently diving deeper into **microservices architecture** and **cloud-native applications**.
+- 💬 Ask me about **Laravel**, **Angular**, **.NET**, **React**, **Next.js**, or **Flutter**.
+- 🏆 A **hackathon winner** and always eager for new challenges in the tech space.
+
+---
+
 ## 💻 My Tech Stack
 
 <p align="center">
@@ -23,16 +34,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated to crafting robust, scalable, and innovative digital solutions. Here's a glimpse of my journey:
-
-- 🔭 I specialize in **full-stack web and mobile development**.
-- 🌱 Currently diving deeper into **microservices architecture** and **cloud-native applications**.
-- 💬 Ask me about **Laravel**, **Angular**, **.NET**, **React**, **Next.js**, or **Flutter**.
-- 🏆 A **hackathon winner** and always eager for new challenges in the tech space.
-
----
 
 ## 📊 GitHub Stats
 
