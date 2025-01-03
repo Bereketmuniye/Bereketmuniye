@@ -1,17 +1,17 @@
 # Welcome to Bereket Muniye's GitHub Profile! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bereket%20Muniye&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bereket%20Muniye&fontSize=90&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full-stack+Expert;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full-stack+Expert;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50&size=30&duration=3000&repeat=Infinity">
 </p>
 
 ## About Me
 
-🚀 Passionate about creating robust and scalable software solutions.
-💻 Full-stack developer with expertise in web and mobile technologies.
-🌱 Always eager to learn and adapt to new technologies in the ever-evolving tech landscape.
-💬 Ask me about Laravel, Angular, .NET, Next.js, React, or Flutter!
+🚀 **Passionate about creating robust and scalable software solutions.**  
+💻 **Full-stack developer with expertise in web and mobile technologies.**  
+🌱 **Always eager to learn and adapt to new technologies in the ever-evolving tech landscape.**  
+💬 **Ask me about Laravel, Angular, .NET, Next.js, React, or Flutter!**
 
 ## My Tech Stack
 
@@ -27,20 +27,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereket-muniye&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket-muniye&show_icons=true&theme=radical&count_private=true&hide=prs" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-muniye&theme=radical" alt="GitHub Streak" />
 </p>
-
-## Featured Projects
-
-Here are some of my notable projects:
-
-1. 🌐 [Project Name] - A web application built with Laravel and Angular.
-2. 📱 [Mobile App] - Cross-platform mobile app developed using Flutter.
-3. ⚛️ [Web App] - Modern web application created with Next.js and React.
 
 ## Let's Connect!
 
@@ -49,5 +41,4 @@ Here are some of my notable projects:
   <a href="https://twitter.com/bereket_muniye"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
