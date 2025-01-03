@@ -1,6 +1,6 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
-![Lifestyle Banner](https://your-image-url.com/pray-code-sleep-repeat.png)
+![Lifestyle Banner](https://i.imgur.com/your_image_id.png)
 
 ## 👨‍💻 About Me
 
@@ -10,7 +10,6 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate **full-stack developer** ded
 - 🌱 Currently diving deeper into **microservices architecture** and **cloud-native applications**.
 - 💬 Ask me about **Laravel**, **Angular**, **.NET**, **React**, **Next.js**, or **Flutter**.
 - 🏆 A **hackathon winner** and always eager for new challenges in the tech space.
-
 ---
 
 ## 💻 My Tech Stack
