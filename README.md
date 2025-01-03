@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated to crafting robust, scalable, and innovative digital solutions. Here's a glimpse of my journey:
+Hi there! 🚀 I'm **Bereket Muniye**, a passionate **full-stack developer** dedicated to crafting robust, scalable, and innovative digital solutions. Here's a glimpse of my journey:
 
 - 🔭 I specialize in **full-stack web and mobile development**.
 - 🌱 Currently diving deeper into **microservices architecture** and **cloud-native applications**.
@@ -27,7 +27,6 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated
 </p>
 
 ---
-
 
 ## 📊 GitHub Stats
 
