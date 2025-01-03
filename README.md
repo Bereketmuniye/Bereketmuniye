@@ -1,11 +1,5 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Mobile%20App%20Enthusiast;Innovative%20Problem%20Solver;Open%20Source%20Advocate&font=Fira%20Code&center=true&width=900&height=45&size=25&duration=3000&pause=500&color=ffffff&vCenter=true">
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated to crafting robust, scalable, and innovative digital solutions. Here's a glimpse of my journey:
