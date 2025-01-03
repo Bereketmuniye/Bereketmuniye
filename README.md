@@ -1,6 +1,6 @@
 # 👋 Welcome to Bereket Muniye's GitHub Profile!
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Mobile%20App%20Enthusiast;Innovative%20Problem%20Solver;Open%20Source%20Advocate&font=Fira%20Code&center=true&width=900&height=45&size=25&duration=3000&pause=500&color=ffffff&vCenter=true">
 </p>
 
@@ -19,7 +19,7 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated
 
 ## 💻 My Tech Stack
 
-<p align="center">
+<p>
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel" height="80"></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031" alt="Angular" height="80"></a>
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4" alt=".NET" height="80"></a>
@@ -28,7 +28,7 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" height="80"></a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github.com/Bereketmuniye/Bereketmuniye/assets/animation/stack-animation.gif" alt="Tech Stack Animation" height="200">
 </p>
 
@@ -37,12 +37,12 @@ Hi there! 🚀 I'm **Bereket Muniye**, a passionate software developer dedicated
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Bereketmuniye&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bereketmuniye&theme=react" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereketmuniye&layout=compact&theme=react&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
