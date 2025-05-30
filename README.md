@@ -1,6 +1,6 @@
 ![Bereket GitHub Banner](https://images.app.goo.gl/L8nK8b1SjtGLgM6L8)
 <h1 align="center">Hi 👋, I'm Bereket Muniye</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like Angular and React, and back-end technologies like Laravel, Next.js, .NET, Python, and C#. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like Angular and React, and back-end technologies like Laravel, .NET,NodeJs and C#. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bereketmuniye&label=Profile%20views&color=0e75b6&style=flat" alt="Bereketmuniye" /> </p>
 
