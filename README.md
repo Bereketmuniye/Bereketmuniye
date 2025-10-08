@@ -86,7 +86,6 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bereketmuniye&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
