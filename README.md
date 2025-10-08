@@ -3,8 +3,9 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Muniye!;" />
 
-<!-- Profile Banner -->
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="100%"/>
+<!-- Profile Banner - Fixed Size -->
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="85%" height="200px"/>
+
 <!-- Status Cards -->
 <div align="center">
   
@@ -54,15 +55,11 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -73,25 +70,27 @@
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats Grid -->
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bereketmuniye&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Bereketmuniye&show_icons=true&theme=radical&hide_border=true" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereketmuniye&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-            <img src="https://streak-stats.demolab.com?user=Bereketmuniye&theme=radical&hide_border=true" />
-    </td>
-  </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereketmuniye&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Bereketmuniye&theme=radical&hide_border=true" width="60%"/>
+
+<br/>
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereketmuniye&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="90%"/>
 
 </div>
 
@@ -102,26 +101,23 @@
 
 ## 💼 Featured Projects
 
-<!-- Project Cards -->
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🎯 Project 1</h3>
-      <p>Full-stack application built with Laravel & React</p>
-      <img src="https://img.shields.io/badge/Laravel-React-blue?style=for-the-badge" />
-    </td>
-    <td width="33%">
-      <h3>🚀 Project 2</h3>
-      <p>Microservices architecture with .NET & Angular</p>
-      <img src="https://img.shields.io/badge/.NET-Angular-purple?style=for-the-badge" />
-    </td>
-    <td width="33%">
-      <h3>💡 Project 3</h3>
-      <p>Real-time app using Node.js & Socket.io</p>
-      <img src="https://img.shields.io/badge/Node.js-Socket.io-green?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center; width: 280px;">
+    <h3>🎯 E-Commerce Platform</h3>
+    <p>Laravel + React + MySQL</p>
+    <img src="https://img.shields.io/badge/Full--Stack-ECommerce-blue?style=for-the-badge" />
+  </div>
+  <div style="text-align: center; width: 280px;">
+    <h3>🚀 API Microservices</h3>
+    <p>.NET + Angular + MongoDB</p>
+    <img src="https://img.shields.io/badge/Microservices-API-purple?style=for-the-badge" />
+  </div>
+  <div style="text-align: center; width: 280px;">
+    <h3>💡 Real-time Chat</h3>
+    <p>Node.js + Socket.io</p>
+    <img src="https://img.shields.io/badge/Real--time-Chat-green?style=for-the-badge" />
+  </div>
+</div>
 
 </div>
 
@@ -132,7 +128,6 @@
 
 ## 🤝 Let's Connect
 
-<!-- Social Links with Cool Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bereket-muniye/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -141,10 +136,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:bereketmuniye4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://web.facebook.com/bereket.muniye/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -152,16 +144,16 @@
 
 <br/>
 
-<!-- Fun Section -->
+<!-- Current Focus -->
 <div align="center">
 
 ## 🎯 Currently
 
-- 🔭 Working on **Laravel + Node.js integrations**
-- 🌱 Learning **Advanced System Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Laravel, React, or .NET**
-- ⚡ Fun fact: **I can debug while sleeping! 😄**
+- 🔭 **Working on:** Laravel + Node.js integrations
+- 🌱 **Learning:** Advanced System Design & Microservices
+- 👯 **Looking to collaborate on:** Open Source Projects
+- 💬 **Ask me about:** Laravel, React, or .NET
+- ⚡ **Fun fact:** I can debug while sleeping! 😄
 
 </div>
 
@@ -170,12 +162,10 @@
 <!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
-### ⭐ **"Code is poetry, and I'm the poet!"**
+### ⭐ "Code is poetry, and I'm the poet!"
 
-<p>Thank you for visiting my profile! Have a great day! 😄</p>
-
-![Snake animation](https://github.com/Bereketmuniye/Bereketmuniye/blob/output/github-contribution-grid-snake.svg)
+<p>Thank you for visiting! Have a great day! 😄</p>
 
 </div>
