@@ -4,8 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Muniye!;" />
 
 <!-- Profile Banner -->
-<img src="https://i.imgur.com/jx7LpsW.gif" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="100%"/>
 <!-- Status Cards -->
 <div align="center">
   
@@ -86,6 +85,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
+            <img src="https://streak-stats.demolab.com?user=Bereketmuniye&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
