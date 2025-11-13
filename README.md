@@ -96,26 +96,6 @@
 <!-- Projects Section -->
 <div align="center">
 
-## 💼 Featured Projects
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="text-align: center; width: 280px;">
-    <h3>🎯 E-Commerce Platform</h3>
-    <p>Laravel + React + MySQL</p>
-    <img src="https://img.shields.io/badge/Full--Stack-ECommerce-blue?style=for-the-badge" />
-  </div>
-  <div style="text-align: center; width: 280px;">
-    <h3>🚀 API Microservices</h3>
-    <p>.NET + Angular + MongoDB</p>
-    <img src="https://img.shields.io/badge/Microservices-API-purple?style=for-the-badge" />
-  </div>
-  <div style="text-align: center; width: 280px;">
-    <h3>💡 Real-time Chat</h3>
-    <p>Node.js + Socket.io</p>
-    <img src="https://img.shields.io/badge/Real--time-Chat-green?style=for-the-badge" />
-  </div>
-</div>
-
 </div>
 
 <br/>
