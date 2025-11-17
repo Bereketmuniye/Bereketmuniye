@@ -115,6 +115,8 @@
   <a href="mailto:bereketmuniye4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://app.daily.dev/bereketmuniye"><img src="https://api.daily.dev/devcards/v2/fhUUvXb7Tmnnj2pY2aNUz.png?type=default&r=uw8" width="356" alt="Bereket Muniye's Dev Card"/></a>
+
 </p>
 
 </div>
@@ -138,7 +140,6 @@
 
 <!-- Footer -->
 <div align="center">
-<a href="https://app.daily.dev/bereketmuniye"><img src="https://api.daily.dev/devcards/v2/fhUUvXb7Tmnnj2pY2aNUz.png?type=default&r=uw8" width="356" alt="Bereket Muniye's Dev Card"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
