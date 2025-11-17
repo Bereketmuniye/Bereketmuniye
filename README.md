@@ -138,11 +138,13 @@
 
 <!-- Footer -->
 <div align="center">
+<a href="https://app.daily.dev/bereketmuniye"><img src="https://api.daily.dev/devcards/v2/fhUUvXb7Tmnnj2pY2aNUz.png?type=default&r=uw8" width="356" alt="Bereket Muniye's Dev Card"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 ### ⭐ "Code is poetry, and I'm the poet!"
 
 <p>Thank you for visiting! Have a great day! 😄</p>
+
 
 </div>
