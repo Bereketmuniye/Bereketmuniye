@@ -88,7 +88,7 @@
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereketmuniye&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="90%"/>
-
+<a href="https://app.daily.dev/bereketmuniye"><img src="https://api.daily.dev/devcards/v2/fhUUvXb7Tmnnj2pY2aNUz.png?type=wide&r=uw8" width="652" alt="Bereket Muniye's Dev Card"/></a>
 </div>
 
 <br/>
@@ -115,7 +115,6 @@
   <a href="mailto:bereketmuniye4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://app.daily.dev/bereketmuniye"><img src="https://api.daily.dev/devcards/v2/fhUUvXb7Tmnnj2pY2aNUz.png?type=default&r=uw8" width="356" alt="Bereket Muniye's Dev Card"/></a>
 
 </p>
 
