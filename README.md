@@ -1,150 +1,74 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Header Section -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bereket+Muniye!;" />
-
-<!-- Profile Banner - Fixed Size -->
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="85%" height="200px"/>
-
-<!-- Status Cards -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Bereketmuniye&color=blue&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/Bereketmuniye?color=blue&style=social)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/bereket_muniye?style=social)
-
-</div>
-
-</div>
-
-<br/>
-
-<!-- About Section -->
-<div align="center">
-  
-## 🚀 About Me
-
-<p>
-  <i>
-    Passionate Full Stack Developer with expertise in modern web technologies. <br/>
-    I love turning complex problems into simple, beautiful designs. <br/>
-    Always learning, always coding, always innovating! 🚀
-  </i>
-</p>
-
-</div>
-
-<br/>
-
-<!-- Tech Stack Section -->
-<div align="center">
-
-## 🛠️ My Tech Stack
-
-### 💻 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bereketmuniye&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereketmuniye&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Bereketmuniye&theme=radical&hide_border=true" width="60%"/>
-
-<br/>
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereketmuniye&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="90%"/>
-<a href="https://app.daily.dev/bereketmuniye"><img src="https://api.daily.dev/devcards/v2/fhUUvXb7Tmnnj2pY2aNUz.png?type=wide&r=uw8" width="652" alt="Bereket Muniye's Dev Card"/></a>
-</div>
-
-<br/>
-
-<!-- Projects Section -->
-<div align="center">
-
-</div>
-
-<br/>
-
-<!-- Contact Section -->
-<div align="center">
-
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bereket-muniye/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/bereket_muniye" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:bereketmuniye4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:bereketmuniye4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
+---
+
+### 🚀 About Me
+**Full Stack Developer | Problem Solver | Tech Enthusiast**
+
+Passionate Full Stack Developer with expertise in building scalable web applications.  
+I bridge the gap between complex backend logic and intuitive frontend design.  
+*Always learning, always coding, always innovating.*
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
+| **Databases**| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+<!-- If images don't load, it's a temporary issue with the stats server -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bereketmuniye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bereket's Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereketmuniye&layout=compact&theme=tokyonight&hide_border=true" alt="Bereket's Top Langs" />
+      </td>
+    </tr>
+  </table>
+  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bereketmuniye&theme=tokyonight&hide_border=true&area=true" />
 </div>
+
+---
+
+### 🎯 Currently Focus
+- 🔭 **Working on:** Scalable microservices with Laravel & Node.js
+- 🌱 **Learning:** Advanced System Design & Cloud Architecture (AWS/Azure)
+- 👯 **Open to:** Collaborating on Open Source projects and innovative web apps
+- 💬 **Ask me about:** Why I love TypeScript and C#
+
+---
+
+### ⚡ Fun Fact
+> "I write code that works, then I write code that's beautiful." 
+> *Also, I can debug 100 lines of code in my head before finishing my first cup of coffee!* ☕
 
 <br/>
 
-<!-- Current Focus -->
-<div align="center">
-
-## 🎯 Currently
-
-- 🔭 **Working on:** Laravel + Node.js integrations
-- 🌱 **Learning:** Advanced System Design & Microservices
-- 👯 **Looking to collaborate on:** Open Source Projects
-- 💬 **Ask me about:** Laravel, React, or .NET
-- ⚡ **Fun fact:** I can debug while sleeping! 😄
-
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-
-### ⭐ "Code is poetry, and I'm the poet!"
-
-<p>Thank you for visiting! Have a great day! 😄</p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
 </div>
