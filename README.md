@@ -54,15 +54,6 @@ I bridge the gap between complex backend logic and intuitive frontend design.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bereketmuniye&theme=tokyonight&hide_border=true&area=true" />
 </div>
 
----
-
-### 🎯 Currently Focus
-- 🔭 **Working on:** Scalable microservices with Laravel & Node.js
-- 🌱 **Learning:** Advanced System Design & Cloud Architecture (AWS/Azure)
-- 👯 **Open to:** Collaborating on Open Source projects and innovative web apps
-- 💬 **Ask me about:** Why I love TypeScript and C#
-
----
 
 ### ⚡ Fun Fact
 > "I write code that works, then I write code that's beautiful." 
